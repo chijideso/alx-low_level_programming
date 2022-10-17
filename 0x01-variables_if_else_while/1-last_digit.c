@@ -1,12 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - the containing function
  * Return: will return zero when successful
  */
-
 int main(void)
 {
 	int n;
