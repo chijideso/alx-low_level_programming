@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - the containing function
  * Return: will return zero when successful
  */
+
 int main(void)
 {
 	int n;
@@ -26,3 +28,4 @@ int main(void)
 		printf("and is less than 6 and not 0\n");
 	}
 	return (0);
+}
