@@ -1,5 +1,3 @@
-es (15 sloc)  186 Bytes
-
 #include "main.h"
 /**
  * _strlen - string lenght
